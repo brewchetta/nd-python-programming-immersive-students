@@ -3,6 +3,8 @@
 # Create a class `MovieReview` which has required attributes `movie_title:str`, `reviewer_name:str`, `score:int`, `date_reviewed:datetime.date`.
 	# You may need to look up how to use `datetime.date` (hint: you'll need `from datetime import date`)
 
+# Create a `__repr__` instance method for your reviews so that you can see their necessary information.
+
 # Create an instance method `pretty_print()` which prints the review like so: `"<movie_title> review by <reviewer_name> on <date_reviewed>: <score> / 5 stars"`.
 	# Example: `land_before_time.pretty_print()` >>> `"Land Before Time review by Fred Flintstone on 2014-4-12: 5/5 stars"`
 
