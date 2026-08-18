@@ -2,8 +2,8 @@
 
 ## Topics
 
-- Using if statement conditionals
-- Conditional expressions with comparison operators
 - Python input function
-- Python for loops
+- Python dictionaries as a data structure
+- Python lists as a data structure
 - Python while loops
+- Python for loops

@@ -7,8 +7,8 @@
 - Declaring variables
 - Python data types
 - Simple data operations
+- Using if statement conditionals
+- Conditional expressions with comparison operators
 - Python functions
 - Variable scope
-- Python lists as a data structure
-- Python dictionaries as a data structure
 - Introduction to algorithmic problem solving
